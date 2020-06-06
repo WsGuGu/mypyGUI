@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=False , icon='D:\\下载存储\\工具存放\\36.ico')
+          console=False , icon='D:\\下载存储\\工具存放\\40.ico')
